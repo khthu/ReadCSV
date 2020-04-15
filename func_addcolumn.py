@@ -19,4 +19,4 @@ def add_column_csv():
                 #Write all changes to row
                 writeCSV.writerow(row) #Write changes
 
-add_column_csv()
+#add_column_csv()
